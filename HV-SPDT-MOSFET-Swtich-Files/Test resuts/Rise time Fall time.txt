@@ -1,0 +1,1 @@
+the HCPL 3120 has a rise/fall time of 0.1us. the MOSFET has rise time 26ns and fall time 80ns
